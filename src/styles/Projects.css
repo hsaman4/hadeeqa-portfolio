@@ -129,8 +129,8 @@
 .js-img {
     background-image: url('../images/js.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
  
 }
 .express {
@@ -140,8 +140,8 @@
 .express-img {
     background-image: url('../images/express.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
  
 }
 .react {
@@ -151,8 +151,8 @@
 .react-img {
     background-image: url('../images/react-logo.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
 .postgres {
@@ -162,8 +162,8 @@
 .postgres-img {
     background-image: url('../images/postgresql.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
 .sql {
@@ -173,8 +173,8 @@
 .sql-img{
     background-image: url('../images/sql.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
   
 }
 .ruby {
@@ -184,8 +184,8 @@
 .ruby-img {
     background-image: url('../images/ruby.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
 .rails {
@@ -195,8 +195,8 @@
 .rails-img {
     background-image: url('../images/rails.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
 .css {
@@ -206,8 +206,8 @@
 .css-img {
     background-image: url('../images/css.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
 .git {
@@ -217,8 +217,8 @@
 .git-img {
     background-image: url('../images/github.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
   
 }
 .node {
@@ -228,8 +228,8 @@
 .node-img {
     background-image: url('../images/node.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
 .html {
@@ -239,7 +239,7 @@
 .html-img  {
     background-image: url('../images/html.png');
     background-size: 100% 100%;
-    height: 180px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 
 }
