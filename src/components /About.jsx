@@ -24,7 +24,7 @@ const About = () => {
                             </ul>
                             <ul>
 
-                                <a href="www.linkedin.com/in/hadeeqa-saman">
+                                <a href="https://www.linkedin.com/in/hadeeqa-saman-10a482132/">
                                     <i class="fab fa-linkedin"></i>
                                 </a>
                             </ul>
