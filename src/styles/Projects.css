@@ -33,6 +33,7 @@
 .fridge-food {
     display: flex;
     /* background-color:#a3cacc; */
+    padding: 1%;
 }
 .fridge-food-img {
     background-image: url('../images/ux:sei.gif');
@@ -75,7 +76,8 @@
 .p3-fantasy {
     display: flex;
     /* background-color:#a3cacc; */
-    border-bottom: 1px dashed black
+    border-bottom: 1px dashed black;
+    padding: 1%;
 }
 .p3-fantasy-img {
     background-image: url('../images/p3-gif.gif');
@@ -120,7 +122,8 @@
 .got-makeup {
     display: flex;
     /* background-color:#a3cacc; */
-    border-bottom: 1px dashed black
+    border-bottom: 1px dashed black;
+    padding: 1%;
 }
 .got-makeup-img {
     background-image: url('../images/got-makeup.gif');
@@ -153,13 +156,12 @@
     justify-content: center;
     padding: 1%;
     /* background-color:#a3cacc; */
-    
-}
-.tech-img {
     color: black;
     font-family: 'Noto Serif', serif;
-    font-size: 20px;
+    font-size: 15px;
+    
 }
+
 .js {
     margin: 1%;
     text-align: center;
