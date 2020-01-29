@@ -5,6 +5,22 @@ const Projects = () => {
     return (
         <div className="projects-container" id="projects">
             <h1>Projects</h1>
+            {/* <div className="halal-foodies">
+                <div className="halal-content">
+                    <h2>Halal Foodies</h2>
+                    <h3>Technologies: 
+                            Front-end: React.js & CSS 
+                            | Back-end: Ruby on Rails
+                    </h3>
+                    <h3>A Halal restaurant website, where users can look through available restaurants, as well as, add, delete and update restaurants. </h3>
+                    <div className="site-links"></div>
+                        <a href="https://github.com/hsaman4/halalfood-backend.git">Backend Github</a>
+                        <a href ="https://github.com/hsaman4/halalfood-react.git">Frontend Github</a>
+                </div>
+                <div className="halal-foodies-img">
+                    
+                </div>
+            </div> */}
             <div className="fridge-food">
                 <div className="fridge-food-content">
                     <h2>Fridge Food</h2>
@@ -48,6 +64,7 @@ const Projects = () => {
                 </div>
                 <div className="got-makeup-img">
                 </div>
+                
             </div>
             <div className="skills" id="skills">
                 <div className="technologies">

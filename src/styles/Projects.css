@@ -1,13 +1,22 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Rozha+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Amiri&display=swap');
 .projects-container {
    
 }
 .projects-container h1 {
     text-align: center;
-    font-family: 'Rozha One', serif;
+    font-family: 'Amiri', serif;
     text-decoration: underline;
     font-weight: 100;
+}
+.halal-foodies {
+    display: flex;
+    /* background-color: #f89223; */
+}
+.halal-foodies img {
+    background-image: url('');
+    background-size: 100% 100%;
+    height: 400px;
+    width: 600px;
 }
 .fridge-food {
     display: flex;
@@ -20,7 +29,7 @@
     width: 600px;
 }
 .fridge-food-content {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Amiri', serif;
     background-color: #f89223;
     color: white;
     display: flex;
@@ -29,12 +38,12 @@
     width: 65%;
 }
 .fridge-food-content h2{
-    font-size: 50px;
+    font-size: 25px;
     text-decoration: underline;
     margin-top: 1%;  
 }
 .fridge-food-content h3 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 100;
     margin: 0
 }
@@ -54,13 +63,13 @@
     flex-direction: column;
     padding: 1%;
     margin-left: 1%;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Amiri', serif;
     width: 70%;
 }
 .site-links {
     display: flex;
     justify-content: space-evenly;
-    font-size: 30px;
+    font-size: 25px;
     width: 25%;
     
 }
@@ -71,12 +80,12 @@
     color: black;
 }
 .p3-fantasy-content h2 {
-    font-size: 50px;
+    font-size: 25px;
     text-decoration: underline;
     margin-top: 1%;
 }
 .p3-fantasy-content h3 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 100;
     margin: 0
 }
@@ -94,17 +103,17 @@
     display: flex;
     flex-direction: column;
     padding: 1%;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Amiri', serif;
     color: white;
     width: 70%;
 }
 .got-makeup-content h2 {
-    font-size: 50px;
+    font-size: 25px;
     text-decoration: underline;
     margin-top: 1%;
 }
 .got-makeup-content h3 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 100;
     margin: 0
 }
@@ -118,7 +127,7 @@
 }
 .tech-img {
     color: black;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Amiri', serif;
     font-size: 20px;
 }
 .js {
