@@ -107,8 +107,9 @@ import '../styles/Projects.css'
 
 const Projects = () => {
     return (
+    <div className="projects">
+        <h1>Projects</h1>
         <div className="projects-container" id="projects">
-            <h1>Projects</h1>
             {/* <div className="halal-foodies">
                 <div className="halal-content">
                     <h2>Halal Foodies</h2>
@@ -250,6 +251,7 @@ const Projects = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     )
 }

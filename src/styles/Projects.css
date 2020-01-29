@@ -1,6 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
 .projects-container {
+    background-image: linear-gradient(#a3cacc, #005C70);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 1px 5px 0 rgba(0,0,0,0.19);
    
+}
+.projects h1 {
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    text-decoration: underline;
+    font-weight: 100;
+    font-size: 25px;
 }
 .projects-container h1 {
     text-align: center;
@@ -23,7 +32,7 @@
 
 .fridge-food {
     display: flex;
-    background-color:#a3cacc;
+    /* background-color:#a3cacc; */
 }
 .fridge-food-img {
     background-image: url('../images/ux:sei.gif');
@@ -33,7 +42,8 @@
 }
 .fridge-food-content {
     font-family: 'Noto Serif', serif;
-    background-color:#a3cacc;
+    /* background-color:#a3cacc; */
+    /* background-image: linear-gradient(#a3cacc, white); */
     color: white;
     display: flex;
     flex-direction: column;
@@ -64,7 +74,7 @@
 } */
 .p3-fantasy {
     display: flex;
-    background-color:#a3cacc;
+    /* background-color:#a3cacc; */
     border-bottom: 1px dashed black
 }
 .p3-fantasy-img {
@@ -109,7 +119,7 @@
 }
 .got-makeup {
     display: flex;
-    background-color:#a3cacc;
+    /* background-color:#a3cacc; */
     border-bottom: 1px dashed black
 }
 .got-makeup-img {
