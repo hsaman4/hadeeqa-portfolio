@@ -16,6 +16,7 @@ const About = () => {
                     
                         <div className="iconslink">
                             <h3>Find me: </h3>
+                        <div className="thelinks">
                             <ul>
                                 <a href="https://github.com/hsaman4">
                                     <i class="fab fa-github"></i>
@@ -27,6 +28,7 @@ const About = () => {
                                     <i class="fab fa-linkedin"></i>
                                 </a>
                             </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
