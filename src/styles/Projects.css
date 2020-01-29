@@ -150,13 +150,14 @@
 }
 .tech-img {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
-    padding: 1%;
+    /* padding: 1%; */
     /* background-color:#a3cacc; */
     color: black;
     font-family: 'Noto Serif', serif;
     font-size: 15px;
+    border: 2px solid red;
     
 }
 
