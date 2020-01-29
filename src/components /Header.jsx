@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div className="header-container">
             <div class="title">
-            <img src="https://media.giphy.com/media/jxsR1JhrmmeUE/giphy.gif"></img>
+            <img src="https://media1.tenor.com/images/cdaa1ee9aa7fcd86a98151fd99b9b78f/tenor.gif?itemid=13610452"></img>
             <div className="text">
                 <h1>HS</h1>
                 </div>

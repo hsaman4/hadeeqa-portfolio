@@ -1,5 +1,109 @@
 import React from 'react'
 import '../styles/Projects.css'
+// import { HoverCard } from 'react-png-hovercard'
+// import fridgefoodgif from '../images/ux:sei.gif'
+// import p3gif from '../images/p3-gif.gif'
+
+// class Projects extends React.Component {
+//     constructor() {
+//         super()
+
+//     }
+//     render() {
+//         return (
+//             <div className="projects-container" id="projects">
+//                 <HoverCard
+//                     maxWidth={400}
+//                     animationSpeed={500}
+//                     height={400}
+//                     margin={10}
+//                     front={
+//                         <div className="front">
+//                             <img
+//                                 src={fridgefoodgif} width="100%" height="100%"
+//                                 alt=''
+//                                 style={{ objectFit: 'cover' }}
+//                             />
+
+//                         </div>
+//                     }
+//                     back={
+//                         <div className="back">
+//                             <p>Fridge Food</p>
+//                             <h3>Technologies: React.js</h3>
+//                             <h3>Design Tools: Zeplin</h3>
+//                             <h3>Built by a team of 3 web developers in collaboration with 2 UX Desginers. The website allows users to search receipes based on ingredient they have on hand, as well as, their food restrictions. </h3>
+//                             <div className="site-links">
+//                                 <a href="http://fridge-food.surge.sh">Live</a> |
+//                             <a href="https://github.com/pryan-x/Recipe-Helper.git">GitHub</a>
+//                             </div>
+//                         </div>
+//                     }
+//                 />
+//                 <HoverCard
+//                     maxWidth={400}
+//                     animationSpeed={500}
+//                     height={400}
+//                     margin={10}
+//                     front={
+//                         <div className="front">
+//                             <img
+//                                 src={p3gif} width="100%" height="100%"
+//                                 alt=''
+//                                 style={{ objectFit: 'cover' }}
+//                             />
+
+//                         </div>
+//                     }
+//                     back={
+//                         <div className="back">
+//                             <p>Fantasy Coders</p>
+//                             <h3>Technologies:
+//                               Front-end: React.js & CSS
+//                             | Back-end: Postgres & Sequelize
+//                         </h3>
+//                             <h3>Built by a team of 3 web developers, a fully functional app with CRUD functionality which allows employers to search through Software Engineers and add them to their team.</h3>
+//                             <div className="site-links">
+//                                 <a href="http://fantasy-coders.surge.sh">Live</a>  |
+//                             <a href="https://github.com/jo-well29/p3-fantasy.git">GitHub</a>
+//                             </div>
+//                         </div>
+//                     }
+//                 />
+//                 <HoverCard
+//                     maxWidth={400}
+//                     animationSpeed={500}
+//                     height={400}
+//                     margin={10}
+//                     front={
+//                         <div className="front">
+//                             <img
+//                                 src={p3gif} width="100%" height="100%"
+//                                 alt=''
+//                                 style={{ objectFit: 'cover' }}
+//                             />
+
+//                         </div>
+//                     }
+//                     back={
+//                         <div className="back">
+//                             <p>Fantasy Coders</p>
+//                             <h3>Technologies:
+//                               Front-end: React.js & CSS
+//                             | Back-end: Postgres & Sequelize
+//                         </h3>
+//                             <h3>Built by a team of 3 web developers, a fully functional app with CRUD functionality which allows employers to search through Software Engineers and add them to their team.</h3>
+//                             <div className="site-links">
+//                                 <a href="http://fantasy-coders.surge.sh">Live</a>  |
+//                             <a href="https://github.com/jo-well29/p3-fantasy.git">GitHub</a>
+//                             </div>
+//                         </div>
+//                     }
+//                 />
+//             </div>
+//         )
+//     }
+// }
 
 const Projects = () => {
     return (
@@ -18,7 +122,7 @@ const Projects = () => {
                         <a href ="https://github.com/hsaman4/halalfood-react.git">Frontend Github</a>
                 </div>
                 <div className="halal-foodies-img">
-                    
+
                 </div>
             </div> */}
             <div className="fridge-food">
@@ -64,7 +168,7 @@ const Projects = () => {
                 </div>
                 <div className="got-makeup-img">
                 </div>
-                
+
             </div>
             <div className="skills" id="skills">
                 <div className="technologies">

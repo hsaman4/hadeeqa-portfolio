@@ -31,7 +31,9 @@ const About = () => {
                     </div>
                 </div>
             </div>
+            <hr></hr>
         </div>
+        
     )
 }
 export default About 

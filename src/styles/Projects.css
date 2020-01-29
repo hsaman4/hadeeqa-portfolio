@@ -1,26 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Amiri&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
 .projects-container {
    
 }
 .projects-container h1 {
     text-align: center;
-    font-family: 'Amiri', serif;
+    font-family: 'Noto Serif', serif;
     text-decoration: underline;
     font-weight: 100;
 }
-.halal-foodies {
+/* .halal-foodies {
     display: flex;
-    /* background-color: #f89223; */
+    background-color: #f89223;
 }
 .halal-foodies img {
     background-image: url('');
     background-size: 100% 100%;
     height: 400px;
     width: 600px;
-}
+} */
+
+
 .fridge-food {
     display: flex;
-    background-color: #f89223;
+    background-color:#a3cacc;
 }
 .fridge-food-img {
     background-image: url('../images/ux:sei.gif');
@@ -29,13 +31,14 @@
     width: 600px;
 }
 .fridge-food-content {
-    font-family: 'Amiri', serif;
-    background-color: #f89223;
+    font-family: 'Noto Serif', serif;
+    background-color:#a3cacc;
     color: white;
     display: flex;
     flex-direction: column;
     padding: 1%;
     width: 65%;
+    border-bottom: 1px dashed black
 }
 .fridge-food-content h2{
     font-size: 25px;
@@ -47,9 +50,20 @@
     font-weight: 100;
     margin: 0
 }
+
+/* .back {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+} */
 .p3-fantasy {
     display: flex;
-    background-color: #738097;
+    background-color:#a3cacc;
+    border-bottom: 1px dashed black
 }
 .p3-fantasy-img {
     background-image: url('../images/p3-gif.gif');
@@ -63,13 +77,14 @@
     flex-direction: column;
     padding: 1%;
     margin-left: 1%;
-    font-family: 'Amiri', serif;
+    font-family: 'Noto Serif', serif;
     width: 70%;
 }
 .site-links {
     display: flex;
     justify-content: space-evenly;
-    font-size: 25px;
+    font-size: 20px;
+    /* border: 1px solid red */
     width: 25%;
     
 }
@@ -91,7 +106,8 @@
 }
 .got-makeup {
     display: flex;
-    background-color: #f0d3da
+    background-color:#a3cacc;
+    border-bottom: 1px dashed black
 }
 .got-makeup-img {
     background-image: url('../images/got-makeup.gif');
@@ -103,7 +119,7 @@
     display: flex;
     flex-direction: column;
     padding: 1%;
-    font-family: 'Amiri', serif;
+    font-family: 'Noto Serif', serif;
     color: white;
     width: 70%;
 }
@@ -122,12 +138,12 @@
     flex-wrap: wrap;
     justify-content: center;
     padding: 1%;
-    background-color:#e0dcda
+    /* background-color:#a3cacc; */
     
 }
 .tech-img {
     color: black;
-    font-family: 'Amiri', serif;
+    font-family: 'Noto Serif', serif;
     font-size: 20px;
 }
 .js {

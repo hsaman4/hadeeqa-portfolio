@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
 .contact-container {
     /* border: 1px solid greenyellow */
 }
 .contact-container h1 {
     text-align: center;
     text-decoration: underline;
-    font-family: 'Amiri', serif;
+    font-family: 'Noto Serif', serif;
     font-weight: 100;
     margin-bottom: 0;
 }
@@ -18,5 +19,5 @@
     color: black;
 }
 .contact-links a:hover {
-    color:#738097 
+    color:#a3cacc;
 }
