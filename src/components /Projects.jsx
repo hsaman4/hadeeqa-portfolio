@@ -163,7 +163,7 @@ const Projects = () => {
                     <h3>Technologies: React.js, Mapbox Api</h3>
                     <h3>Using React.js and a third party api, this website displays a set number of products in each category. Users are also able to create a wishlist on the site, with the name of the name of the products and image url.</h3>
                     <div className="site-links">
-                        <a href="http://got-makeup.surge.sh">Live</a> |
+                        <a href="http://got-makeup.surge.sh/">Live</a> |
                         <a href="https://github.com/hsaman4/Got-Makeup.git">GitHub</a>
                     </div>
                 </div>

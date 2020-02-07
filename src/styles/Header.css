@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
 .header-container {
-    /* border-bottom: 1px solid #738097 ; */
     display: flex;
     justify-content: space-between;
     font-size: 20px;
@@ -51,5 +50,9 @@
     color:#a3cacc
 }
 
-    
+@media screen and (max-width: 500px) {
+   .header-container {
+       display: flex;
+   }
+}
   

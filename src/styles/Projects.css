@@ -7,14 +7,12 @@
 .projects h1 {
     text-align: center;
     font-family: 'Noto Serif', serif;
-    /* text-decoration: underline; */
     font-weight: 100;
     font-size: 25px;
 }
 .projects-container h1 {
     text-align: center;
     font-family: 'Noto Serif', serif;
-    /* text-decoration: underline; */
     font-weight: 100;
     font-size: 25px;
 }
@@ -32,9 +30,8 @@
 
 .fridge-food {
     display: flex;
-    /* background-color:#a3cacc; */
     padding: 1%;
-    border-bottom: 1px dashed black;
+    border-bottom: 1px dashed white;
 }
 .fridge-food-img {
     background-image: url('../images/ux:sei.gif');
@@ -74,8 +71,7 @@
 } */
 .p3-fantasy {
     display: flex;
-    /* background-color:#a3cacc; */
-    border-bottom: 1px dashed black;
+    border-bottom: 1px dashed white;
     padding: 1%;
 }
 .p3-fantasy-img {
@@ -99,7 +95,6 @@
     display: flex;
     justify-content: space-evenly;
     font-size: 20px;
-    /* border: 1px solid red */
     width: 25%;
     
 }
@@ -122,8 +117,7 @@
 }
 .got-makeup {
     display: flex;
-    /* background-color:#a3cacc; */
-    border-bottom: 1px dashed black;
+    border-bottom: 1px dashed white;
     padding: 1%;
 }
 .got-makeup-img {
@@ -154,10 +148,7 @@
 }
 .tech-img {
     display: flex;
-    /* flex-wrap: wrap; */
     justify-content: center;
-    /* padding: 1%; */
-    /* background-color:#a3cacc; */
     color: black;
     font-family: 'Noto Serif', serif;
     font-size: 15px;
@@ -285,4 +276,7 @@
     height: 90px;
     width: 90px;
 
+}
+@media screen and (min-width: 800px) {
+    
 }
