@@ -52,7 +52,25 @@
 
 @media screen and (max-width: 500px) {
    .header-container {
-       display: flex;
+    display: flex;
+    width: 100;
+
+   }
+   .text h1 {
+    font-size: 80px;
+   
+  }
+  
+  .title img {
+    height:75px;
+    overflow: hidden;
+}
+   .header-links {
+       display: flex; 
+       /* border: 1px solid green; */
+       /* margin-right:10%; */
+       width: 50%;
+
    }
 }
   

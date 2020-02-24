@@ -19,3 +19,8 @@
 .contact-links a:hover {
     color:#076073;
 }
+@media screen and (max-width: 500px) {
+    .contact-container {
+        width: 152%;
+    }
+}

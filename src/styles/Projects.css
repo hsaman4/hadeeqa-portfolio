@@ -304,6 +304,13 @@
     width: 90px;
 
 }
-@media screen and (min-width: 800px) {
-    
+@media screen and (max-width: 500px) {
+    .projects {
+        width: 152%;
+        /* border: 1px solid red; */
+    }
+    .tech-img {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
